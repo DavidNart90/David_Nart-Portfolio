@@ -1,11 +1,11 @@
 # Portfolio Website 
-This is a personal portfolio website created by [Your Name] to showcase your skills and projects as a Junior Data Scientist and Front-End Developer. This website was built using HTML, CSS, and JavaScript.
+This is a personal portfolio website created by David Nart to showcase your skills and projects as a Junior Data Scientist and Front-End Developer. This website was built using HTML, CSS, and JavaScript.
 
 ### Getting Started
 To view the website locally, clone the repository to your local machine by running the following command in your terminal:
 
 ```
-- git clone https://github.com/[username]/[repo-name].git 
+- git clone https://github.com/DavidNart90/David_Nart-Portfolio.git 
 ```
 
 Then open the index.html file in your web browser to view the website.
