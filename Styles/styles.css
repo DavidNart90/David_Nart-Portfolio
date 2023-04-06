@@ -772,25 +772,8 @@ main.row{
     .blog-slider__button {
       width: 80%;
    }
-
-   .blog-slider__code {
-    color: #7b7992;
-    margin-bottom: 10px;
-    display: block;
-    font-weight: 700;
-    font-size: 12px;
+   
  }
-  .blog-slider__title {
-    font-size: 18px;
-    font-weight: 700;
-    margin-bottom: 15px;
- }
-  .blog-slider__text {
-    margin-bottom: 10px;
-    line-height: 1.3em;
-    font-size: 1.2rem;
- }
-}
   .blog-slider .swiper-container-horizontal > .swiper-pagination-bullets, .blog-slider .swiper-pagination-custom, .blog-slider .swiper-pagination-fraction {
     bottom: 10px;
     left: 0;
@@ -817,25 +800,6 @@ main.row{
       justify-content: center;
       align-items: center;
    }
-
-   
-   .blog-slider__code {
-    margin-top: -15px;
-    margin-bottom: 8px;
-    display: block;
-    font-weight: 700;
-    font-size: 12px;
- }
-  .blog-slider__title {
-    font-size: 18px;
-    font-weight: 700;
-    margin-bottom: 10px;
- }
-  .blog-slider__text {
-    margin-bottom: 8px;
-    line-height: 1.3em;
-    font-size: 1.2rem;
- }
  }
   .blog-slider__pagination.swiper-pagination-bullets .swiper-pagination-bullet {
     margin: 8px 0;
