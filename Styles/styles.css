@@ -9,7 +9,6 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
     scroll-behavior: smooth;
-    overflow-x: hidden;
 }
 
 :root{
@@ -45,6 +44,7 @@
 html{
     font-size: 62.5%;
     overflow-x: hidden;
+    overflow: hidden;
 }
 
 body{
