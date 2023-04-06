@@ -44,10 +44,10 @@ ScrollReveal({
     delay: 250,
 });
 
-ScrollReveal().reveal('.home-content, .heading', { origin: 'top' });
-ScrollReveal().reveal('.home-img , .services-container, .portfolio-box, .contact form ', { origin: 'bottom'});
-ScrollReveal().reveal('.home-content h1 , .about-img, #contents_1', { origin: 'left'});
-ScrollReveal().reveal('.home-content p , .about-content, #contents_2, .skills-box, .blog-slider', { origin: 'right'});
+ScrollReveal().reveal('.home-content, .heading, .blog-slider', { origin: 'top' });
+ScrollReveal().reveal('.home-img , .services-container, .portfolio-box, .contact form, #contents_2, .about-content h3', { origin: 'bottom'});
+ScrollReveal().reveal('.home-content h1 , .about-img, #contents_1, .skills-box, .about-content', { origin: 'left'});
+ScrollReveal().reveal('.home-content p', { origin: 'right'});
 
 
 /*===== typed js=====*/
