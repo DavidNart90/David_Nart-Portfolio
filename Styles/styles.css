@@ -715,25 +715,6 @@ main.row{
     .blog-slider__img {
       height: 270px;
    }
-
-   
-   .blog-slider__code {
-    color: #7b7992;
-    margin-bottom: 10px;
-    display: block;
-    font-weight: 700;
-    font-size: 12px;
- }
-  .blog-slider__title {
-    font-size: 18px;
-    font-weight: 700;
-    margin-bottom: 20px;
- }
-  .blog-slider__text {
-    margin-bottom: 10px;
-    line-height: 1.3em;
-    font-size: 1.2rem;
- }
  }
   .blog-slider__content {
     padding-right: 25px;
