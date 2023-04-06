@@ -770,7 +770,7 @@ main.row{
  }
   @media screen and (max-width: 576px) {
     .blog-slider__button {
-      width: 50%;
+      width: 80%;
    }
 
    .blog-slider__code {
@@ -783,7 +783,7 @@ main.row{
   .blog-slider__title {
     font-size: 18px;
     font-weight: 700;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
  }
   .blog-slider__text {
     margin-bottom: 10px;
@@ -820,8 +820,8 @@ main.row{
 
    
    .blog-slider__code {
-    color: #7b7992;
-    margin-bottom: 10px;
+    margin-top: -15px;
+    margin-bottom: 8px;
     display: block;
     font-weight: 700;
     font-size: 12px;
@@ -829,10 +829,10 @@ main.row{
   .blog-slider__title {
     font-size: 18px;
     font-weight: 700;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
  }
   .blog-slider__text {
-    margin-bottom: 10px;
+    margin-bottom: 8px;
     line-height: 1.3em;
     font-size: 1.2rem;
  }
