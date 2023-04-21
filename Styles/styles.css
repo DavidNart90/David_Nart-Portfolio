@@ -600,7 +600,7 @@ main.row{
   @media screen and (max-width: 768px) {
     .blog-slider {
       min-height: 500px;
-      height: auto;
+      height: fit-content;
       margin: 180px auto;
    }
  }
