@@ -926,6 +926,12 @@ main.row{
     }
 }
 
+@media (max-width: 768px){
+    .blog{
+    margin-bottom: 4rem;
+    }
+
+}
 
 @media (max-width: 991px){
     .header{
