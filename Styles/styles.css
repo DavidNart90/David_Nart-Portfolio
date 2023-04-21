@@ -602,6 +602,7 @@ main.row{
       min-height: 500px;
       height: fit-content;
       margin: 180px auto;
+      margin-bottom: 2rem;
    }
  }
   @media screen and (max-height: 500px) and (min-width: 992px) {
